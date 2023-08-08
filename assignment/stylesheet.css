@@ -14,3 +14,15 @@ main {
     background-color: lightgray;
     padding: 1em;
 }
+
+.top {
+    border-radius: 75%;
+    border-style: double;
+    border-color: black;
+
+}
+
+.mydesc {
+    text-align: left;
+    font-style: italic;
+}
